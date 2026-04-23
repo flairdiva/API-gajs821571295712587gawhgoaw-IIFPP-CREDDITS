@@ -1,12 +1,20 @@
 {
   "Categories": [
     {
-      "Title": "Lead Developers",
-      "Members": ["Username1", "Username2", "test215125", "test259172598712895", "user281598125618925", "giohawiohwag", "gibkhlashfaw", "goawguioawug"]
+      "Title": "Head Project Lead",
+      "Members": ["ffyffhhalop [Danny]"]
     },
     {
-      "Title": "Artists",
-      "Members": ["Username3", "Username4"]
+      "Title": "Lead Developers",
+      "Members": ["ffyffhhalop", "FlairDiva"]
+    },
+    {
+      "Title": "Past Developers",
+      "Members": ["A927"]
+    },
+    {
+      "Title": "Menu Art",
+      "Members": ["FlairDiva"]
     }
   ],
   "Settings": {
