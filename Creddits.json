@@ -1,0 +1,16 @@
+{
+  "Categories": [
+    {
+      "Title": "Lead Developers",
+      "Members": ["Username1", "Username2"]
+    },
+    {
+      "Title": "Artists",
+      "Members": ["Username3", "Username4"]
+    }
+  ],
+  "Settings": {
+    "TitleFont": "GothamBold",
+    "NameFont": "Gotham"
+  }
+}
