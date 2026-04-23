@@ -2,19 +2,35 @@
   "Categories": [
     {
       "Title": "Head Project Lead",
-      "Members": ["ffyffhhalop [Danny]"]
+      "Members": ["ffyffhhalop2"]
     },
     {
       "Title": "Lead Developers",
-      "Members": ["ffyffhhalop", "FlairDiva"]
+      "Members": ["ffyffhhalop2", "FlairDiva"]
     },
     {
-      "Title": "Past Developers",
+      "Title": "Past Developer",
       "Members": ["A927"]
     },
     {
-      "Title": "Menu Art",
-      "Members": ["FlairDiva"]
+      "Title": "Offical Music [Paid]",
+      "Members": ["Decay edix", "Chumarex", "mr lego"]
+    },
+    {
+      "Title": "Sounds",
+      "Members": ["ttsmaker.com [ Voice ASAS ]", "aidxnhhhh [ Intercom Intro sound ]", "Keyrut [Marketplace Alarm]", "gmhs2 [ marketplace alarm ]", "CreatorMan2k [ marketplace alarm ]", "A927 [ marketplace alarm ]"]
+    },
+    {
+      "Title": "Beta Testers",
+      "Members": ["Haksmanop"]
+    },
+    {
+      "Title": "Inspirations",
+      "Members": ["QSERF [ By Quantum Sience ]", "IITPP [ by AnimeRiceFarmer ]", "NSMRS [ by Nova Inc ]", "HIURL [ by Hazardos-Inc ]", "Black Mesa [ by Crobar Collective & valve ]", "Scp Containment Breach [ Joonas Rikkonen ]", "Portal 2"]
+    },
+    {
+      "Title": "Early Supporters",
+      "Members": ["bestbro20009","Ohsoyoulikepizza2", "solnechnaia_systema#0", "Haksmanop", "SaiTheIndividual"]
     }
   ],
   "Settings": {
